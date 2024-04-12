@@ -1,8 +1,9 @@
-# React + Vite
+# TO DO LIST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React.js app that allows the user to add items to a list as well as delete them by clicking on them.
 
-Currently, two official plugins are available:
+Below is a link to this site.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://jaronwenger.github.io/TO-DO-LIST/
+
+<img width="994" alt="Screenshot 2024-04-12 at 3 10 23 PM" src="https://github.com/JaronWenger/TO-DO-LIST/assets/147181586/fad1e934-ab2b-48af-a1eb-f7e40d73eb30">
