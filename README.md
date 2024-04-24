@@ -1,6 +1,6 @@
 # TO DO LIST
 
-A simple React website that allows the user to add items to a list as well as delete them by clicking on them.
+A simple React.js website that allows the user to add items to a list as well as delete them by clicking on them.
 
 Below is a link to this site.
 
